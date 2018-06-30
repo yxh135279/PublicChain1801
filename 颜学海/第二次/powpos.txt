@@ -31,7 +31,7 @@ dpos(Delegeted Proof of stake)授权股权证明机制
 现在很多采取用pow挖矿发行或ico发行，通过pos或dpos来进行进行共识算法
 dpos(Delegated proof of stake)授权股权证明机制
 1.将记帐人角色专业化，通过权益进行投标选出记帐人
-
+2.dpos消耗资源小，在成共识的效率高
 ~                                                                               
 ~                                                                               
 ~                                                                               
